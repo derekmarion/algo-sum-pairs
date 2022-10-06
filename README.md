@@ -1,5 +1,7 @@
 # Sum Pairs
 
+Before writing your code, don't forget to write your tests!!
+
 Write a method that takes an integer array and a desired sum. The output will be pairs of numbers from the inputed integer array that equal that desired sum. If there are no pairs that work, return 'unable to find pairs'
 
 Sample output:
